@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://assadullahadelyar.github.io/fm-single-price-grid)
+- Solution URL: [Click here for solution](https://www.frontendmentor.io/solutions/single-price-grid-component-qtiZ6fSAwz)
+- Live Site URL: [Project Live Preview](https://assadullahadelyar.github.io/fm-single-price-grid)
 
 ## My process
 
